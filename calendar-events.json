@@ -1,0 +1,158 @@
+{
+  "events": [
+    {
+      "title": "CDL-A",
+      "start": "2024-07-01T13:00:00.000Z",
+      "end": "2024-07-01T21:30:00.000Z",
+      "allDay": false,
+      "location": "BREA 120",
+      "description": "Instructor: Ancora<br>Category: CDL-Wh & F-Dr Ed",
+      "type": "CDL-Wh & F-Dr Ed",
+      "campus": "BR",
+      "color": "#4285f4"
+    },
+    {
+      "title": "CDL-A",
+      "start": "2024-07-02T13:00:00.000Z",
+      "end": "2024-07-02T21:30:00.000Z",
+      "allDay": false,
+      "location": "BREA 120",
+      "description": "Instructor: Ancora<br>Category: CDL-Wh & F-Dr Ed",
+      "type": "CDL-Wh & F-Dr Ed",
+      "campus": "BR",
+      "color": "#4285f4"
+    },
+    {
+      "title": "CDL-A",
+      "start": "2024-07-03T13:00:00.000Z",
+      "end": "2024-07-03T21:30:00.000Z",
+      "allDay": false,
+      "location": "BREA 120",
+      "description": "Instructor: Ancora<br>Category: CDL-Wh & F-Dr Ed",
+      "type": "CDL-Wh & F-Dr Ed",
+      "campus": "BR",
+      "color": "#4285f4"
+    },
+    {
+      "title": "Code Playground: iPhone App Adventures!",
+      "start": "2025-07-21T14:00:00.000Z",
+      "end": "2025-07-21T17:00:00.000Z",
+      "allDay": false,
+      "location": "Mac Lab",
+      "description": "Instructor: Montgomery<br>Category: College for Kids",
+      "type": "College for Kids",
+      "campus": "PV",
+      "color": "#fbbc05"
+    },
+    {
+      "title": "Summer Spotlight: An Adventure into Acting",
+      "start": "2025-06-02T13:00:00.000Z",
+      "end": "2025-06-02T17:00:00.000Z",
+      "allDay": false,
+      "location": "BU?",
+      "description": "Instructor: Randall Wilkerson<br>Category: College for Kids",
+      "type": "College for Kids",
+      "campus": "LV",
+      "color": "#fbbc05"
+    },
+    {
+      "title": "Introduction to Podcasting",
+      "start": "2024-11-20T23:00:00.000Z",
+      "end": "2024-11-21T01:00:00.000Z",
+      "allDay": false,
+      "location": "LVBU 204",
+      "description": "Instructor: Amy Corkern<br>Category: Community Ed",
+      "type": "Community Ed",
+      "campus": "LV",
+      "color": "#34a853"
+    },
+    {
+      "title": "Design Without Limits: Mastering Canva",
+      "start": "2024-12-02T23:00:00.000Z",
+      "end": "2024-12-03T01:00:00.000Z",
+      "allDay": false,
+      "location": "LVBU 204",
+      "description": "Instructor: Amy Corkern<br>Category: Community Ed",
+      "type": "Community Ed",
+      "campus": "LV",
+      "color": "#34a853"
+    },
+    {
+      "title": "Mastering the Art of Public Speaking",
+      "start": "2024-03-24T22:30:00.000Z",
+      "end": "2024-03-25T00:30:00.000Z",
+      "allDay": false,
+      "location": "LVBU106",
+      "description": "Instructor: Thomas Miller<br>Category: Community Ed",
+      "type": "Community Ed",
+      "campus": "LV",
+      "color": "#34a853"
+    },
+    {
+      "title": "OSHA 10-hour General Industry",
+      "start": "2024-08-13T14:00:00.000Z",
+      "end": "2024-08-14T22:00:00.000Z",
+      "allDay": false,
+      "location": "ATSI 107",
+      "description": "Instructor: Ed Barrett<br>Category: GPOEC-OSHA",
+      "type": "GPOEC-OSHA",
+      "campus": "ATSI",
+      "color": "#ff9800"
+    },
+    {
+      "title": "OSHA 30-hour Construction",
+      "start": "2024-09-16T14:00:00.000Z",
+      "end": "2024-09-20T22:00:00.000Z",
+      "allDay": false,
+      "location": "ATSI 101",
+      "description": "Instructor: Jim Robinson<br>Category: GPOEC-OSHA",
+      "type": "GPOEC-OSHA",
+      "campus": "ATSI",
+      "color": "#ff9800"
+    },
+    {
+      "title": "Motorcycle Basic Rider Course",
+      "start": "2024-08-10T14:00:00.000Z",
+      "end": "2024-08-11T18:00:00.000Z",
+      "allDay": false,
+      "location": "Parking Lot C",
+      "description": "Instructor: James Wilson<br>Category: Motorcycle",
+      "type": "Motorcycle",
+      "campus": "MW",
+      "color": "#795548"
+    },
+    {
+      "title": "CNA Training",
+      "start": "2024-10-05T14:00:00.000Z",
+      "end": "2024-11-16T20:00:00.000Z",
+      "allDay": false,
+      "location": "HCC 302",
+      "description": "Instructor: Sarah Johnson<br>Category: HSI",
+      "type": "HSI",
+      "campus": "PV",
+      "color": "#00bcd4"
+    },
+    {
+      "title": "Electrical Pre-Apprenticeship",
+      "start": "2024-09-09T17:00:00.000Z",
+      "end": "2024-12-13T22:00:00.000Z",
+      "allDay": false,
+      "location": "ATSI 210",
+      "description": "Instructor: Michael Peterson<br>Category: Pre-Apprentices & Apprentices",
+      "type": "Pre-Apprentices & Apprentices",
+      "campus": "ATSI",
+      "color": "#607d8b"
+    },
+    {
+      "title": "Welding Fundamentals",
+      "start": "2024-08-19T17:00:00.000Z",
+      "end": "2024-11-08T22:00:00.000Z",
+      "allDay": false,
+      "location": "ATSI 120",
+      "description": "Instructor: Robert Davis<br>Category: Technical Skills",
+      "type": "Technical Skills",
+      "campus": "ATSI",
+      "color": "#ff5722"
+    }
+  ]
+}
